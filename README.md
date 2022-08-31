@@ -1,10 +1,6 @@
-Made by Lionh34rt#4305
-Discord: https://discord.gg/AWyTUEnGeN
-Tebex: https://lionh34rt.tebex.io/
-
 # Description
 * **Fishing script for QBCore**
-
+* **This repository will be used for my livestream tutorial dd. 1/09 at 5PM EST** 
 # Dependencies
 * [QBCore Framework](https://github.com/qbcore-framework)
 # Installation
@@ -19,3 +15,10 @@ Tebex: https://lionh34rt.tebex.io/
 ```lua
 ['fishing'] = {webhook},
 ```
+
+# Credits
+Made by Lionh34rt#4305
+
+Discord: https://discord.gg/AWyTUEnGeN
+
+Tebex: https://lionh34rt.tebex.io/
