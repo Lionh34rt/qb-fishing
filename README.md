@@ -1,6 +1,6 @@
 # Description
 * **Fishing script for QBCore**
-* **This repository will be used for my livestream tutorial dd. 1/09 at 5PM EST**
+* [Join Project-Sloth Community (discord)](https://discord.gg/projectsloth)
 
 # Dependencies
 * [QBCore Framework](https://github.com/qbcore-framework)
